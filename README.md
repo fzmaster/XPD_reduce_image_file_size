@@ -1,4 +1,4 @@
-XPD_reduce_image_file_size
+XPD Reduce Image Filesize
 ==========================
 Reduce your filesize after you upload your media in Wordpress
 
