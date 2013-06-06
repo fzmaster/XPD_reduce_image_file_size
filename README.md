@@ -8,4 +8,4 @@ With this plugin you can reduce the filesize automatically. Just download and in
 
 TODOS:
 
-* Webinterface to configure the quality of the next images to be uploaded
+* [DONE] 05/06/2013 - Webinterface to configure the quality of the next images to be uploaded
